@@ -1,0 +1,5 @@
+plugins { id 'com.android.application' }
+
+android { namespace 'com.icallabs.icalc'; compileSdk 34
+    defaultConfig { applicationId 'com.icallabs.icalc'; minSdk 23; targetSdk 34; versionCode 1; versionName '1.0' }
+}
